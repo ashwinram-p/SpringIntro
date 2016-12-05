@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<!-- 1. Create a bean Piano with price and a playMusic() method which prints a string 
+		 2. Create a Spring managed Piano bean with id 'piano' 
+		 3. Create a class to run the Piano playMusic() method by obtaining the bean 
+		 from ClassPathXMLApplicationContext -->
+</beans>
